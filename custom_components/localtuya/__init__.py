@@ -66,7 +66,7 @@ localtuya:
         current: 18 # Optional
         current_consumption: 19 # Optional
         voltage: 20 # Optional
-      
+
       - platform: vacuum
         friendly_name: Vacuum
         id: 28
